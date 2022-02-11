@@ -7,7 +7,7 @@ import pathlib
 import matplotlib.colors as mcolors
 
 
-logfile = "log.txt" #ctestwinでファイル出力 - その他ファイル出力 - ログファイル出力 - その他備考なしで作成したものを使ってください
+logfile = "log.txt" #ctestwinでファイル出力 - その他ファイル出力 - TXT形式ファイル出力で作成したものを使ってください
 
 #https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v3_0.html#prefecture00 から白地図をあらかじめダウンロードしてローカルに展開し、指定してください
 #"D:\Downloads\N03-20210101_GML\N03-20210101_GML\N03-21_210101.shp" 
